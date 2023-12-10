@@ -1,0 +1,22 @@
+.btn {
+    /* border: 2px solid red; */
+    border-color: transparent;
+    width: 23.5%;
+    height: 11vh;
+    margin: 2px;
+    border-radius: 5%;
+}
+.onbtn{
+    /* background-color: red; */
+    color: aliceblue;
+}
+.green {
+    background: pink;
+}
+.red {
+    background-color: red;
+}
+.equals{
+    background-color: aquamarine;
+    /* color: aliceblue; */
+}

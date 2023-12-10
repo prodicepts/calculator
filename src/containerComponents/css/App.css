@@ -1,0 +1,29 @@
+.main {
+    border:2px solid red;
+    width: 28%;
+    margin: auto;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    height: 90vh;
+}
+.uppercompartment{
+    border: 2px solid green;
+    width: 98%;
+    height: 25vh;
+    margin: 5px auto;
+}
+.lowercompartment {
+    border: 2px solid green;
+    width: 98%;
+    height: 62vh;
+    margin: 5px auto;
+}
+.row {
+    /* border: 2px solid pink; */
+    padding: 1px;
+    text-align: center;
+}
+.onbtn {
+    color: red;
+}
